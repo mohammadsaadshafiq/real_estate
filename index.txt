@@ -258,13 +258,13 @@ alt = Homeverse logo
 Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
 
 <ion-icon name="location-outline"></ion-icon>
-Brooklyn, New York, United States
+www.omnicraftservices.com
 
 <ion-icon name="call-outline"></ion-icon>
-+0123-456789
+www.omnicraftservices.com
 
 <ion-icon name="mail-outline"></ion-icon>
-contact@homeverse.com
+www.omnicraftservices.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
@@ -278,7 +278,7 @@ Blog
 All Products
 Locations Map
 FAQ
-Contact us
+Website
 
 Services
 
@@ -296,9 +296,9 @@ My account
 Wish List
 Order tracking
 FAQ
-Contact us
+Website
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2025 Omnicraft Services — https://www.omnicraftservices.com/
 
 
 

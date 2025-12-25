@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 codewithsadee
+ * Omnicraft Services
  */
 
 
@@ -479,6 +479,13 @@ button, a { transition: var(--transition); }
   padding-left: 15px;
   border-left: 1px solid;
   margin-bottom: 30px;
+}
+
+.hero-banner [data-hero-3d] {
+  display: block;
+  transform: none;
+  mix-blend-mode: multiply;
+  opacity: 0.95;
 }
 
 
